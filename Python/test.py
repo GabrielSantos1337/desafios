@@ -1,3 +1,1 @@
-import pandas as pd
-
-print("Hello World")
+print("Bem Vindo ao JOGO")
